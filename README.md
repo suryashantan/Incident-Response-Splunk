@@ -19,14 +19,32 @@ This incident response project is based on Splunk log analysis, where SSH authen
 ### Step 1: Attacker Identification
 Identified IP with highest failed login attempts.
 
+📸  
+![Attacker Identification](screenshots/1_incident_response_attacker.jpg)
+
+---
+
 ### Step 2: Brute Force Detection
 Detected repeated failed authentication attempts.
+
+📸  
+![Brute Force Detection](screenshots/2_ir_bruteforce_attacker.jpg)
+
+---
 
 ### Step 3: Compromise Check
 Observed successful login after multiple failed attempts.
 
+📸  
+![Compromise Check](screenshots/3_ir_compromise_check.jpg)
+
+---
+
 ### Step 4: Timeline Analysis
 Tracked attack progression using log timestamps.
+
+📸  
+![Timeline Analysis](screenshots/4_ir_timeline.jpg)
 
 ---
 
@@ -52,14 +70,4 @@ The attacker successfully gained unauthorized access after multiple failed login
 - Monitor login attempts  
 - Block malicious IP addresses  
 
----
 
-## 📸 Screenshots
-
-![Attacker](screenshots/1__incident_response_attacker.jpg)
-
-![Brute Force](screenshots/2__ir_bruteforce_attacker.jpg)
-
-![Compromise](screenshots/3__ir_compromise_check.jpg)
-
-![Timeline](screenshots/4__ir_timeline.jpg)
