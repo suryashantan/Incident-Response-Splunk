@@ -56,4 +56,10 @@ The attacker successfully gained unauthorized access after multiple failed login
 
 ## 📸 Screenshots
 
-(Add after uploading images)
+![Attacker](screenshots/1__incident_response_attacker.jpg)
+
+![Brute Force](screenshots/2__ir_bruteforce_attacker.jpg)
+
+![Compromise](screenshots/3__ir_compromise_check.jpg)
+
+![Timeline](screenshots/4__ir_timeline.jpg)
