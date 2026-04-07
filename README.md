@@ -70,4 +70,10 @@ The attacker successfully gained unauthorized access after multiple failed login
 - Monitor login attempts  
 - Block malicious IP addresses  
 
+## 🔍 Skills Demonstrated
 
+- Log Analysis using Splunk
+- Brute Force Attack Detection
+- Incident Investigation
+- Threat Identification
+- SIEM Dashboard Analysis
