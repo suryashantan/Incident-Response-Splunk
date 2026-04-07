@@ -20,7 +20,7 @@ This incident response project is based on Splunk log analysis, where SSH authen
 Identified IP with highest failed login attempts.
 
 📸  
-![Attacker Identification](screenshots/1_ir_attacker.jpg
+![Attacker Identification](screenshots/1_ir_attacker.jpg)
 
 ---
 
